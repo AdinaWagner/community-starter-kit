@@ -35,4 +35,10 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+more text
+another useful thing
+and a list of very necessary things:
+
+- one
+- two
+- three
