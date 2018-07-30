@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- this is the first bullet point on what this project does
+- this is the second bullet point
+- and this is the last
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- here is a first awesome feature
+- this feature is even more awesome
+- and this feature is shit, but else the project would trigger too many haters
 
 ## Getting started
 
